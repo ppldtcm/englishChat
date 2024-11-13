@@ -1,0 +1,14 @@
+{
+  "modelUri": "gpt://b1g85c6dndf00c2agjlu/yandexgpt/rc",
+  "completionOptions": {"maxTokens":500,"temperature":0.3},
+  "messages": [
+    {
+      "role": "system",
+      "text": "Найди ошибки в тексте и исправь их"
+    },
+    {
+      "role": "user",
+      "text": "привет"
+    }
+  ]
+}
